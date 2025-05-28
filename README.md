@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ranganadhulu/ranganadhulu/_apis/build/status%2Franganadhulu.ContosoAir?branchName=master)](https://dev.azure.com/ranganadhulu/ranganadhulu/_build/latest?definitionId=12&branchName=master)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
